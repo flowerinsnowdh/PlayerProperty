@@ -1,0 +1,4 @@
+main: online.flowerinsnow.playerproperty.PlayerPropertyPlugin
+name: PlayerProperty
+version: ${project.version}
+author: flowerinsnow
